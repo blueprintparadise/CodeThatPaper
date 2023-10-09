@@ -1,5 +1,4 @@
 # CodeThatPaper
-ML papers explained with code
+## Bridging the gap between research and industry......
 
-This repos is meant to help bridge the gap between theoritical understanding of a research paper and practical code implementations
-
+This is an Open-source project that is supposed to help understand important researh papers and provide tips and tricks to help with the understanding research papers and testing the claims provided in the paper.  
